@@ -10,6 +10,6 @@ chmod +x install.sh
 ![](/photo/ru_sub.jpg)
 
 
-#### Правообладатель:
+#### Создатели:
 
 [ НеаДекват Records ](https://steamcommunity.com/sharedfiles/filedetails/?id=2525869612) 
