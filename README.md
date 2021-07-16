@@ -3,9 +3,8 @@
 ### Установка:
 
 ```bash
-wget https://raw.githubusercontent.com/AnilAntari/HelltakerRuLinux/main/install.sh
-chmod +x install.sh
-./install.sh
+bash -c "bash <(wget -qO- https://raw.githubusercontent.com/AnilAntari/HelltakerRuLinux/main/install.sh)"
+
 ```
 ![](/photo/ru_sub.jpg)
 
